@@ -1,4 +1,6 @@
 --RAY WU
+USE Northwind
+GO
 
 --Q1
 SELECT CustomerID, ContactName, City, Region
